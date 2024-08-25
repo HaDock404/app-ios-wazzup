@@ -7,6 +7,7 @@ export default function Index() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
+        backgroundColor: "red"
       }}
     >
       <Text>Hey, It's my first App on Smartphone 😉</Text>
